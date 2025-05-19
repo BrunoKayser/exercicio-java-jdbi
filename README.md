@@ -132,3 +132,18 @@ WHERE c.nome = :categoria
 Se quiser avançar:
 - Criar um método update.
 - Realizar consulta em lista.
+
+## 📚 Recursos Úteis:
+### ⚙️ Utilizando JDBI com Spring Boot
+
+- [Integrando JDBI no Spring Boot – Baeldung](https://www.baeldung.com/spring-boot-jdbi)
+- [Documentação Oficial do JDBI](https://jdbi.org/)
+- [Tutorial prático JDBI + Spring Boot – Medium](https://justanotherdevblog.com/2019/12/24/how-to-use-jdbi-in-your-spring-boot-application/)
+
+---
+
+### 📄 Externalizando Queries SQL em Arquivos `.sql`
+
+- [Usando `@UseClasspathSqlLocator` – JDBI Docs](https://jdbi.org/releases/3.44.1/)
+- [Exemplo de projeto com SQL externo – GitHub JDBI ST4](https://github.com/jdbi/jdbi-st4)
+
